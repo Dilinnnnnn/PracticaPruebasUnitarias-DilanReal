@@ -6,7 +6,7 @@ Nombre: Dilan Real
 
 Grupo: GR1
 
-Implementación de la clase `SmartWallet` con métodos de depósito y retiro, incluyendo validaciones y reglas de negocio. 
+Implementación de la clase `SmartWallet` con métodos de depósito y retiro, incluyendo validaciones y reglas de negocio.
 Ademas de ello cuenta con 8 test los cuales prueban:
 
 - 1: Deposito valido.
